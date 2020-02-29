@@ -9,7 +9,7 @@ public class Main {
 
       //  BarChart barChart = new BarChart("Task types report",new ArrayList());
         BarChart chart = BarChart.builder()
-                .withFontColor("Blakc")
+                .withFontColor("Black")
                 .withFontName("Arial")
                 .withHeight(12)
                 .build();

@@ -135,6 +135,7 @@ public class BarChart {
 
     @Override
     public String toString() {
+
         return "BarChart{" +
                 "title='" + title + '\'' +
                 ", fontName='" + fontName + '\'' +
